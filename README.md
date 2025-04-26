@@ -77,5 +77,5 @@ cv2.destroyAllWindows()
 ```
 
 ## output
-![Screenshot 2025-04-23 124430](https://github.com/user-attachments/assets/ae8e92b2-42cd-4300-9f47-7b7a97153b7d)
+![Screenshot 2025-04-26 084252](https://github.com/user-attachments/assets/b27a1044-9045-4586-bbb3-214c7921116c)
 
